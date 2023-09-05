@@ -48,7 +48,7 @@ def main():
         if choice == "1":
             # Play the game
             board = generate_board()
-            print(board)
+            #print(board)
             print(f'Welcome to MasterMind:')
             print(f'Guess the board within {attempts} tries.')
 
