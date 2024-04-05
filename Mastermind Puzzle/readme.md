@@ -1,0 +1,1 @@
+My final project for Codedex! This is a text-based game, known as Mastermind. Run this (If you're on PC, click . on your keyboard!) and find out!

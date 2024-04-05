@@ -8,7 +8,7 @@ def mastermind():
 \_/  \|\_/ \|\____/  \_/  \____\\_/\_\\_/  \|\_/\_/  \|\____/
 ''')
 def menu():
-    print(f'-----Welcome to MasterMind!-----')
+    print(f'-----Welcome to Mastermind!-----')
     print(f'1. Play')
     print(f'2. Rules')
     print(f'3. Settings')
