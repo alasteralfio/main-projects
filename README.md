@@ -1,0 +1,1 @@
+These are the projects I've undertaken over the years to expand my knowledge and push me to learn! In general, these projects are the ones I'm more proud of, though if you're interested in seeing some of my smaller works, go to https://github.com/alasteralfio/personal
